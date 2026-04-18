@@ -222,7 +222,7 @@ answer:"1.37 m"
 week:4,
 question:"3 trees are located in a sample plot of 15 m × 15 m. Their dbh are as under: dbh = 25 cm, 30 cm, 35 cm Find the stand basal area in sq m per Ha.",
 options:["9.6","14.6","21.6","27.6"],
-answer:"14.6"
+answer:"9.6"
 },
 {
 week:4,
@@ -264,7 +264,7 @@ answer:"dob = dub + 2 × tb"
 week:4,
 question:"Consider a stand of eucalyptus trees that are on average 30 cm in diameter and spaced on a regular 3 m grid. Find the spacing factor.",
 options:["5","10","15","data insufficient"],
-answer:"data insufficient"
+answer:"10"
 },
 
 /* WEEK 5 */
@@ -564,7 +564,7 @@ answer:"secondary felling"
 week:8,
 question:"For a crop with rotation age of 120 years, PB-III would have crop age",
 options:["0-30 years","30-60 years","60-90 years","90-120 years"],
-answer:"60-90 years"
+answer:"30-60 years"
 },
 {
 week:8,
@@ -617,7 +617,7 @@ answer:"skidding"
 week:9,
 question:"Net growth in initial volume is given by",
 options:["V2-V1","V2-V1+H-I","V2-V1+H-I+M","V2-V1+H-I-M"],
-answer:"V2-V1+H-I-M"
+answer:"V2-V1+H-I"
 },
 {
 week:9,
@@ -695,7 +695,7 @@ answer:"sunken bed"
 week:10,
 question:"Shell cracking of seeds is used for which species",
 options:["amla","mango","ber","teak"],
-answer:"teak"
+answer:"ber"
 },
 {
 week:10,
@@ -926,7 +926,7 @@ answer:"peaty soil"
 week:12,
 question:"For a tree with dbh = 45.6 cm, height = 27 m and total stem volume of 1.78 cum, the artificial form factor for the tree is:",
 options:["0.1","0.2","0.3","0.4"],
-answer:"0.3"
+answer:"0.4"
 },
 {
 week:12,
@@ -1391,7 +1391,7 @@ options:[
 "30 m",
 "40 m"
 ],
-answer:"10 m"
+answer:"20 m"
 },
 {
 week:'4 Extra',
